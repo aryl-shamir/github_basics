@@ -6,3 +6,4 @@ else:
     sleepy = input("are you sleepy")
     if sleepy == "yes":
         print("wake up and go and learn github")
+        print("wash face ")
