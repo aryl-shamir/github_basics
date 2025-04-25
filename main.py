@@ -1,5 +1,5 @@
 learning = input("Are learning github? ").lower()
-if learning == "yes":
+if learning == "yes" and learning == "y":
     print("That's great")
     print("i'm legend")
 else:
